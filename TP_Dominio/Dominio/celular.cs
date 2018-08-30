@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Dominio
 {
-    class celular
+    public class celular
     {
+
     }
 }

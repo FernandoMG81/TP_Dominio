@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dominio
 {
-    class limpieza
+    public class limpieza
     {
     }
 }

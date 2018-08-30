@@ -4,7 +4,10 @@ using System.Text;
 
 namespace Dominio
 {
-    class persona
+    public class persona
     {
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string Edad { get; set; }
     }
 }

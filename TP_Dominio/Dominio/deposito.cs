@@ -6,5 +6,9 @@ namespace Dominio
     {
         public int Tamanio { get; set; }
 
+        public deposito(int tamanio)
+        {
+            Tamanio = tamanio;
+        }
     }
 }

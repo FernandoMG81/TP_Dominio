@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dominio
 {
-    class pasillo
+    public class pasillo
     {
     }
 }

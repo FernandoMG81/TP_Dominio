@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dominio
 {
-    class compartimiento
+    public class compartimiento
     {
     }
 }

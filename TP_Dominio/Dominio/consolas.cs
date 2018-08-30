@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Dominio
 {
-    class consolas
+    public class consolas
     {
+        public string Descripcion { get; set; }
     }
 }
