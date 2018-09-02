@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dominio
 {
-    public class jefe
+    public class jefe : persona
     {
         
     }

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Dominio
 {
-    public class operador
+    public class operador : persona
     {
+        public void Transportar () { }
     }
 }

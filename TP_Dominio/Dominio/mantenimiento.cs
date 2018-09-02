@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Dominio
 {
-    public class mantenimiento
+    public class mantenimiento : persona
     {
+        public void Repara () { }
     }
 }

@@ -10,5 +10,6 @@ namespace Dominio
         {
             Tamanio = tamanio;
         }
+
     }
 }

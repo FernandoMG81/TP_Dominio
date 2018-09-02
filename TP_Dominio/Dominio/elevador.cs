@@ -6,5 +6,7 @@ namespace Dominio
 {
     public class elevador
     {
+        public float PesoSoportado { get; set; }
+        public int Bateria { get; set; }
     }
 }

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Dominio
 {
-    public class limpieza
+    public class limpieza : persona
     {
+        public void Limpiar() { }
     }
 }
