@@ -6,7 +6,9 @@ namespace Dominio
 {
     public class rack
     {
-        private compartimiento Estante;
-        public rack (int cant) { }
+        private compartimiento Estante = new compartimiento();
+        private bool lado;
+        public rack(int cant) { }
+
     }
 }

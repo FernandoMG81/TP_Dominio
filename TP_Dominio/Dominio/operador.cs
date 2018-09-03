@@ -6,6 +6,6 @@ namespace Dominio
 {
     public class operador : persona
     {
-        public void Transportar () { }
+        public void Transportar() { }
     }
 }

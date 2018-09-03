@@ -6,6 +6,6 @@ namespace Dominio
 {
     public class mantenimiento : persona
     {
-        public void Repara () { }
+        public void Repara() { }
     }
 }
